@@ -1,58 +1,209 @@
 # Statuts de l’association Toulibre
 
 ## Article 1 : Constitution et dénomination
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre Toulibre.
+
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **Toulibre**.
 
 ## Article 2 : Buts
-Cette association se place dans une perspective d’éducation populaire. Elle a pour objet d’engager toute action susceptible d’assurer la promotion, le développement et la démocratisation des Logiciels Libres dans la région Midi-Pyrénées. L’association est également concernée par la promotion des œuvres diffusées sous les termes d’une licence libre. Sont considérés comme libres les logiciels ou œuvres que l’on peut librement utiliser, étudier, copier, modifier et redistribuer.
+
+Cette association se place dans une perspective d’éducation populaire.
+
+Elle a pour objet :
+- d’engager toute action susceptible d’assurer la promotion, le développement et la démocratisation des Logiciels Libres dans la région Midi-Pyrénées.
+- de promouvoir des œuvres diffusées sous les termes d’une licence libre. Sont considérés comme libres les logiciels ou œuvres que l’on peut librement utiliser, étudier, copier, modifier et redistribuer.
+- de porter l'événement "Capitole du Libre" organisé par une équipe de bénévoles membres ou non de l'association.
 
 ## Article 3 : Siège social
+
 Le siège social est fixé à Toulouse. Il pourra être transféré par simple décision du Conseil d’Administration.
 
 ## Article 4 : Durée de l’association
+
 La durée de l’association est illimitée.
 
 ## Article 5 : Moyens d’action
+
 Les moyens d’action de l’association sont notamment :
 - les conférences, les réunions de travail, les publications,
 - l’organisation de manifestations et toute initiative pouvant aider à la réalisation de l’objet de l’association.
 
 ## Article 6 : Ressources de l’association
+
 Les ressources de l’association se composent :
 - des cotisations,
 - des dons manuels,
+- les subventions de l'État, des régions, des départements, des communes et des établissements publics,
+- de produit des ventes de biens ou des prestations de services,
 - de toute autre ressource qui ne soit pas contraire aux règles en vigueur.
 
 ## Article 7 : Composition de l’association
+
 L’association se compose de :
-- Membres actifs ou adhérents,
-Sont membres actifs ceux qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l’Assemblée Générale.
-- Membres d’honneur,
-Sont membres d’honneur ceux qui ont rendu des services signalés à l’association. Ils sont dispensés de cotisations mais n’ont pas le droit de vote à l’Assemblée Générale.
+- Membres du bureau
+- Membres du conseil d'administration
+- Membres actifs
+- Membres d’honneur
+
+Les **membres du bureau** tiennent la direction générale de l'association.
+
+Le rôle des **membres du conseil d'administration** est défini dans l'article 11 du présent document.
+
+Sont **membres d’honneur** sont des personnes morales ou physiques désignées sur proposition du conseil d'administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droite de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
+
+Sont **membres actifs** le spersonnes morales ou physiques qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l’Assemblée Générale.
+
 
 ## Article 8 : Admission et adhésion
-Pour faire partie de l’association, il faut adhérer aux présents statuts et s’acquitter de la cotisation dont le montant est fixé par l’Assemblée Générale. Le Conseil d’Administration pourra refuser des adhésions dans le cas où il estime que la personne demandant l’adhésion est en contradiction avec le but de l’association. Un avis motivé sera adressé aux intéressés.
 
-## Article 9 : Perte de la qualité de membre
+Pour faire partie de l’association, il faut adhérer aux présents statuts et s’acquitter de la cotisation annuelle.
+Le Conseil d’Administration pourra refuser des adhésions dans le cas où il estime que la personne demandant l’adhésion est en contradiction avec le but de l’association. Un avis motivé sera adressé aux intéressés.
+
+# Article 9 : Cotisations
+
+Le montant de la cotisation est fixé chaque année par l'assemblée générale.
+
+Les membres actifs versent annuellement cette cotisation.
+
+Les membres d'honneur sont dispensés de cotisation.
+
+## Article 10 : Perte de la qualité de membre
+
 La qualité de membre se perd par :
 - La démission,
 - Le décès,
 - La radiation prononcée par le Conseil d’Administration pour infraction aux présents statuts, pour non-respect du règlement intérieur ou pour motif grave portant préjudice moral ou matériel à l’association. L’intéressé ayant été préalablement appelé à fournir ses explications. Un recours non suspensif devant l’assemblée générale peut être demandé.
 
-## Article 10 : Assemblée Générale Ordinaire
-L’Assemblée Générale Ordinaire se réunit au moins une fois par année civile et comprend tous les membres de l’association à jour de leur cotisation. Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. L’ordre du jour est communiqué par le Conseil d’Administration sept jours au moins avant l’Assemblée générale. L’Assemblée Générale, après avoir délibéré, se prononce sur le rapport moral ou d’activité et sur les comptes de l’exercice financier. Elle délibère sur les orientations à venir. Elle pourvoit à la nomination ou au renouvellement des membres de le Conseil d’Administration. Elle fixe aussi le montant de la cotisation annuelle. Les décisions de l’Assemblée sont prises à la majorité des membres présents ou représentés. Un membre ne peut porter qu’une seule procuration. Les personnes morales disposent d’une voix chacune.
+## Article 11 : Assemblée Générale Ordinaire
 
-## Article 11 : Conseil d’Administration
-L’Association est dirigée de manière collégiale par un Conseil d’Administration élu pour un an par l’Assemblée Générale lors d’un scrutin de liste majoritaire à un tour. Les membres sont rééligibles. En cas de vacance de poste, le Conseil d’Administration pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif à la prochaine Assemblée Générale. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés. Les mineurs de plus de 16 ans sont éligibles au Conseil d’Administration. Le Conseil d’Administration a pour rôle d’organiser et de répartir les tâches au sein de l’association, avec une volonté permanente de démocratie et de transparence. Il nomme en son sein un représentant légal. Celui-ci représente l’association pour tous les actes de la vie civile et est investi de tous les pouvoirs à cet effet. Il a qualité pour ester en justice au nom de l’association, tant en demande qu’en défense.
+L’Assemblée Générale Ordinaire se réunit au moins une fois par année civile et comprend tous les membres actifs à jour de leur cotisation et les membres d'honneur de l'association.
+
+L'ordre du jour est établi par le conseil d'administration.
+
+Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convcation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courier électronique.
+
+Elle est présidée par le présdent de l'association assisté des membres du conseil.
+
+L’Assemblée Générale, après avoir délibéré, se prononce sur le rapport moral ou d’activité et sur les comptes de l’exercice financier.
+
+Elle délibère sur les orientations à venir.
+
+Ne puvent être votés que les points inscrits à l'ordre du jour.
+
+Les décisions de l’Assemblée sont prises à la majorité des membres présents ou représentés. Les personnes morales disposent d’une voix chacune. Le scrutin secret est de droit si un membre le demande.
+
+Un membre ne peut porter qu’une seule procuration.
+
+Un membre absent peut se faire représenter par un membre actif.
+
+En cas de partage des suffrages, la voix du président est prépondérante.
+
+Il est tenu un procès verbal des séances. Les procès verbaux sont signés par le président et le secrétaire de séance. Ils sont établis sans blancs ni ratures sur des feuilles numérotées et conservées au siègre de l'association.
+
+Il est procédé, après épiosement de l'ordre du jour au renouvellement des membres du conseil d'administration.
 
 ## Article 12 : Assemblée Générale Extraordinaire
-Si besoin est, ou sur demande du quart des membres, le Conseil d’Administration convoque une Assemblée Générale Extraordinaire. Les conditions de convocation sont identiques à celles de l’Assemblée Générale Ordinaire. L’ordre du jour est la modification des statuts ou la dissolution. Les délibérations sont prises à la majorité des deux tiers des membres présents.
+Si besoin est, ou sur demande du quart des membres, le Conseil d’Administration convoque une Assemblée Générale Extraordinaire. Les conditions de convocation sont identiques à celles de l’Assemblée Générale Ordinaire. L’ordre du jour est la modification des statuts ou la dissolution.
+Les délibérations sont prises à la majorité des deux tiers des membres présents.
 
-## Article 13 : Dissolution
+
+## Article 13 : Conseil d’Administration
+
+L'association est administrée par un Conseil d'Administration composé de 3 membres au moins et de 12 membres au plus élus par l'assemblée générale parmi les membres actifs.
+
+Les membres du conseil sont élus pour un an.
+
+Les membres sont rééligibles.
+
+En cas de vacance de poste, le Conseil d’Administration pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif à la prochaine Assemblée Générale. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
+
+Le Conseil d'Administration se réunit au moins une fois tous les six mois, sur convocation du président ou à la demande du quart de ses membres.
+
+Les décisions sont prises à la majorité des voix, en cas de partage, la voix du président est prépondérante.
+
+Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réuniosn consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
+
+## Article 14 : Le bureau
+
+Le Conseil d'Administration élit parmi ses membres, un bureau composé au moins de :
+- un président
+- un trésorier
+- un vice-président "Capitole du Libre"
+
+Sur proposition du bureau antérieur, il pourra également être composé de :
+- un secrétaire général
+- un trésorier adjoint
+
+Les fonctions ne sont pas cumulables.
+
+Les membres du Bureau sont élus pour un mandat d’un an renouvelable sans limitation. En cas de vacance prolongée d’un de ses membres, le Bureau donne pourvoir provisoirement à son remplacement. Le remplacement définitif est effectué par la plus proche réunion du Conseil d’Administration.
+
+Le Bureau assure notamment l’exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées générales et prépare leur ordre du jour.
+
+Il autorise toutes acquisitions, aliénations ou locations immobilières ainsi que les contrats de toute sorte à intervenir entre l’association et des personnes physiques ou des personnes morales, de droit public ou de droit privé.
+
+Les décisions du Bureau sont prises à la majorité simple. En cas de partage des voix, celle du président est prépondérante.
+
+## Article 15 Fonctions des membres du bureau
+
+### Le Président
+
+Il convoque le Conseil d'Administration et préside l'Assemblée Générale.
+
+Il représente l'association dans tous les actes de la vie civile.
+
+Il a notamment qualité pour représenter l'association en justice comme défenseur au nom de l'association et comme demandeur avec autorisation du conseil d'administration statuant à la majorité relative.
+
+Il peut former, dans les mêmes conditions, tous appels et pourvois.
+
+Il ne peut transiger qu'avec l'autorisation du bureau du conseil d'administration statuant à la majorité relative.
+
+### Le Trésorier
+
+Le trésorier est dépositaire des fonds de l'association, il ne peut en disposer que sur mandat du bureau.
+
+Le trésorier donne valablement quitance pour toute somme due par l'association. Il rend compte de sa gestion devant l'Assemblée Générale et doit être à même de présenter des comptes détaillés de l'association à toute réquisition du bureau, du président ou du conseil d'administration.
+
+### Le Trésorier adjoint
+
+Il est investi de la même mission que le trésorier.
+
+### Le vice-président "Capitole du Libre"
+
+Le vice-président Capitole du Libre est en charge de l'organisation et du bon déroulement de l'organisation du "Capitole du Libre". 
+
+Il rend compte de la tenue de l'événement devant l'Assemblée Générale.
+
+### Le Secrétaire
+
+Le secrétaire est chargé de la correspondance et des convocations. Il rédige les procès verbaux des réunions des assemblées générales et du conseil d'administration.
+
+En cas d'absence de Secrétaire au Bureau, cette fonction peut-être assurée par n'importe quel membre du Bureau.
+
+
+## Article 16 : Indemnités
+
+Toutes les fonctions, y compris celles des membres du Conseil d'Administration et du Bureau, sont bénévoles.
+
+Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs sur présentation d'un justificatif. Le rapport financier présenté à l'assemblée générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
+
+## Article 14 : Dissolution
 En cas de dissolution prononcée par l’Assemblée Générale Extraordinaire, convoquée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu à une association ayant des buts similaires, conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
 
-## Article 14 : Règlement intérieur
-Un règlement intérieur peut être établi parle Conseil d’Administration qui le fait alors approuver par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l’organisation et à la répartition des tâches dans l’association. Les présents statuts ont été approuvés par l’assemblée constitutive du 6 septembre 2006.
-Signatures des membres du Conseil d’Administration :
+## Article 15 : Règlement intérieur
+Un règlement intérieur peut être établi parle Conseil d’Administration qui le fait alors approuver par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l’organisation et à la répartition des tâches dans l’association. 
 
+
+
+
+Les présents statuts ont été approuvés par l’assemblée constitutive du 18 Février 2024.
+
+
+Le Président :
+
+
+
+
+
+
+Le Trésorier :
 
