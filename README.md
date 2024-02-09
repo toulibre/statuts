@@ -48,9 +48,9 @@ Les **membres du bureau** tiennent la direction générale de l'association.
 
 Le rôle des **membres du conseil d'administration** est défini dans l'article 13 du présent document.
 
-Sont **membres d’honneur** sont des personnes morales ou physiques désignées sur proposition du conseil d'administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droite de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
+Sont **membres d’honneur** sont des personnes morales ou physiques désignées sur proposition du conseil d'administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droit de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
 
-Sont **membres actifs** le spersonnes morales ou physiques qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l’Assemblée Générale.
+Sont **membres actifs** les personnes morales ou physiques qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l’Assemblée Générale.
 
 
 ## Article 8 : Admission et adhésion
@@ -58,7 +58,7 @@ Sont **membres actifs** le spersonnes morales ou physiques qui sont à jour de l
 Pour faire partie de l’association, il faut adhérer aux présents statuts et s’acquitter de la cotisation annuelle.
 Le Conseil d’Administration pourra refuser des adhésions dans le cas où il estime que la personne demandant l’adhésion est en contradiction avec le but de l’association. Un avis motivé sera adressé aux intéressés.
 
-# Article 9 : Cotisations
+## Article 9 : Cotisations
 
 Le montant de la cotisation est fixé chaque année par l'assemblée générale.
 
@@ -81,7 +81,7 @@ L'ordre du jour est établi par le conseil d'administration.
 
 Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convocation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courier électronique.
 
-Elle est présidée par le présdent de l'association assisté des membres du conseil.
+Elle est présidée par le président de l'association assisté des membres du Conseil d'Administration.
 
 L’Assemblée Générale, après avoir délibéré, se prononce sur le rapport moral ou d’activité et sur les comptes de l’exercice financier.
 
@@ -97,7 +97,7 @@ Un membre absent peut se faire représenter par un membre actif.
 
 En cas de partage des suffrages, la voix du président est prépondérante.
 
-Il est tenu un procès verbal des séances. Les procès verbaux sont signés par le président et le secrétaire de séance. Ils sont établis sans blancs ni ratures sur des feuilles numérotées et conservées au siègre de l'association.
+Il est tenu un procès verbal des séances. Les procès verbaux sont signés par le président et le secrétaire de séance. Ils sont établis sans blancs ni ratures sur des feuilles numérotées et conservées au siège de l'association.
 
 Il est procédé, après épuisement de l'ordre du jour au renouvellement des membres du conseil d'administration.
 
@@ -121,7 +121,7 @@ Le Conseil d'Administration se réunit au moins une fois tous les six mois, sur 
 
 Les décisions sont prises à la majorité des voix, en cas de partage, la voix du président est prépondérante.
 
-Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
+Tout membre du conseil qui n'aura pas assisté à trois réunions consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
 
 ## Article 14 : Le bureau
 
@@ -136,9 +136,9 @@ Sur proposition du bureau antérieur, il pourra également être composé de :
 
 Les fonctions ne sont pas cumulables.
 
-Les membres du Bureau sont élus pour un mandat d’un an renouvelable sans limitation. En cas de vacance prolongée d’un de ses membres, le Bureau donne pourvoir provisoirement à son remplacement. Le remplacement définitif est effectué par la plus proche réunion du Conseil d’Administration.
+Les membres du Bureau sont élus pour un mandat d’un an renouvelable sans limitation. En cas de vacance prolongée d’un de ses membres, le Bureau pourvoit provisoirement à son remplacement. Le remplacement définitif est effectué par la plus proche réunion du Conseil d’Administration.
 
-Le Bureau assure notamment l’exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées générales et prépare leur ordre du jour.
+Le Bureau assure notamment l’exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées générales.
 
 Il autorise toutes acquisitions, aliénations ou locations immobilières ainsi que les contrats de toute sorte à intervenir entre l’association et des personnes physiques ou des personnes morales, de droit public ou de droit privé.
 
@@ -152,15 +152,13 @@ Il convoque le Conseil d'Administration et préside l'Assemblée Générale.
 
 Il représente l'association dans tous les actes de la vie civile.
 
-Il a notamment qualité pour représenter l'association en justice comme défenseur au nom de l'association et comme demandeur avec autorisation du conseil d'administration statuant à la majorité relative.
+Il a notamment qualité pour représenter l'association en justice comme défenseur au nom de l'association et comme demandeur avec autorisation du Conseil d'Administration statuant à la majorité relative.
 
 Il peut former, dans les mêmes conditions, tous appels et pourvois.
 
-Il ne peut transiger qu'avec l'autorisation du bureau du conseil d'administration statuant à la majorité relative.
-
 ### Le Trésorier
 
-Le trésorier est dépositaire des fonds de l'association, il ne peut en disposer que sur mandat du bureau.
+Le trésorier est dépositaire des fonds de l'association, il ne peut en disposer que sur mandat du Bureau.
 
 Le trésorier donne valablement quitance pour toute somme due par l'association. Il rend compte de sa gestion devant l'Assemblée Générale et doit être à même de présenter des comptes détaillés de l'association à toute réquisition du bureau, du président ou du conseil d'administration.
 
@@ -178,25 +176,25 @@ Il rend compte de la tenue de l'événement devant l'Assemblée Générale.
 
 Le secrétaire est chargé de la correspondance et des convocations. Il rédige les procès verbaux des réunions des assemblées générales et du conseil d'administration.
 
-En cas d'absence de Secrétaire au Bureau, cette fonction peut-être assurée par n'importe quel membre du Bureau.
+En cas d'absence de Secrétaire au Bureau, ces tâches peuvent être assurées par n'importe quel membre du Bureau.
 
 
 ## Article 16 : Indemnités
 
 Toutes les fonctions, y compris celles des membres du Conseil d'Administration et du Bureau, sont bénévoles.
 
-Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs sur présentation d'un justificatif. Le rapport financier présenté à l'assemblée générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
+Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs sur présentation d'un justificatif. Le rapport financier présenté à l'Assemblée Générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
 
-## Article 14 : Dissolution
+## Article 17 : Dissolution
 En cas de dissolution prononcée par l’Assemblée Générale Extraordinaire, convoquée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu à une association ayant des buts similaires, conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
 
-## Article 15 : Règlement intérieur
-Un règlement intérieur peut être établi parle Conseil d’Administration qui le fait alors approuver par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l’organisation et à la répartition des tâches dans l’association. 
+## Article 18 : Règlement intérieur
+Un règlement intérieur peut être établi par le Conseil d’Administration qui le fait alors approuver par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l’organisation et à la répartition des tâches dans l’association. 
 
 
 
 
-Les présents statuts ont été approuvés par l’assemblée constitutive du 18 Février 2024.
+Les présents statuts ont été approuvés par l’assemblée constitutive du 28 Février 2024.
 
 
 Le Président :
