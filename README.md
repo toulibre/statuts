@@ -9,7 +9,7 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 Cette association se place dans une perspective d’éducation populaire.
 
 Elle a pour objet :
-- d’engager toute action susceptible d’assurer la promotion, le développement et la démocratisation des Logiciels Libres dans la région Midi-Pyrénées.
+- d’engager toute action susceptible d’assurer la promotion, le développement et la démocratisation des Logiciels Libres dans la région Occitanie.
 - de promouvoir des œuvres diffusées sous les termes d’une licence libre. Sont considérés comme libres les logiciels ou œuvres que l’on peut librement utiliser, étudier, copier, modifier et redistribuer.
 - de porter l'événement "Capitole du Libre" organisé par une équipe de bénévoles membres ou non de l'association.
 
@@ -46,7 +46,7 @@ L’association se compose de :
 
 Les **membres du bureau** tiennent la direction générale de l'association.
 
-Le rôle des **membres du conseil d'administration** est défini dans l'article 11 du présent document.
+Le rôle des **membres du conseil d'administration** est défini dans l'article 13 du présent document.
 
 Sont **membres d’honneur** sont des personnes morales ou physiques désignées sur proposition du conseil d'administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droite de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
 
@@ -79,7 +79,7 @@ L’Assemblée Générale Ordinaire se réunit au moins une fois par année civi
 
 L'ordre du jour est établi par le conseil d'administration.
 
-Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convcation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courier électronique.
+Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convocation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courier électronique.
 
 Elle est présidée par le présdent de l'association assisté des membres du conseil.
 
@@ -87,7 +87,7 @@ L’Assemblée Générale, après avoir délibéré, se prononce sur le rapport 
 
 Elle délibère sur les orientations à venir.
 
-Ne puvent être votés que les points inscrits à l'ordre du jour.
+Ne peuvent être votés que les points inscrits à l'ordre du jour.
 
 Les décisions de l’Assemblée sont prises à la majorité des membres présents ou représentés. Les personnes morales disposent d’une voix chacune. Le scrutin secret est de droit si un membre le demande.
 
@@ -99,10 +99,11 @@ En cas de partage des suffrages, la voix du président est prépondérante.
 
 Il est tenu un procès verbal des séances. Les procès verbaux sont signés par le président et le secrétaire de séance. Ils sont établis sans blancs ni ratures sur des feuilles numérotées et conservées au siègre de l'association.
 
-Il est procédé, après épiosement de l'ordre du jour au renouvellement des membres du conseil d'administration.
+Il est procédé, après épuisement de l'ordre du jour au renouvellement des membres du conseil d'administration.
 
 ## Article 12 : Assemblée Générale Extraordinaire
-Si besoin est, ou sur demande du quart des membres, le Conseil d’Administration convoque une Assemblée Générale Extraordinaire. Les conditions de convocation sont identiques à celles de l’Assemblée Générale Ordinaire. L’ordre du jour est la modification des statuts ou la dissolution.
+
+Si besoin est, ou sur demande du quart des membres actifs, le Conseil d’Administration convoque une Assemblée Générale Extraordinaire. Les conditions de convocation sont identiques à celles de l’Assemblée Générale Ordinaire. L’ordre du jour est la modification des statuts ou la dissolution.
 Les délibérations sont prises à la majorité des deux tiers des membres présents.
 
 
@@ -120,7 +121,7 @@ Le Conseil d'Administration se réunit au moins une fois tous les six mois, sur 
 
 Les décisions sont prises à la majorité des voix, en cas de partage, la voix du président est prépondérante.
 
-Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réuniosn consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
+Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
 
 ## Article 14 : Le bureau
 
