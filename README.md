@@ -48,7 +48,7 @@ Les **membres du bureau** tiennent la direction générale de l'association.
 
 Le rôle des **membres du conseil d'administration** est défini dans l'article 13 du présent document.
 
-Sont **membres d’honneur** sont des personnes morales ou physiques désignées sur proposition du conseil d'administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droit de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
+Sont **membres d’honneur** les personnes morales ou physiques désignées sur proposition du conseil d'administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droit de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
 
 Sont **membres actifs** les personnes morales ou physiques qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l’Assemblée Générale.
 
@@ -79,7 +79,7 @@ L’Assemblée Générale Ordinaire se réunit au moins une fois par année civi
 
 L'ordre du jour est établi par le conseil d'administration.
 
-Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convocation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courier électronique.
+Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convocation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courrier électronique.
 
 Elle est présidée par le président de l'association assisté des membres du Conseil d'Administration.
 
