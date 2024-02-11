@@ -160,7 +160,7 @@ Il peut former, dans les mêmes conditions, tous appels et pourvois.
 
 Le trésorier est dépositaire des fonds de l'association, il ne peut en disposer que sur mandat du Bureau.
 
-Le trésorier donne valablement quitance pour toute somme due par l'association. Il rend compte de sa gestion devant l'Assemblée Générale et doit être à même de présenter des comptes détaillés de l'association à toute réquisition du bureau, du président ou du conseil d'administration.
+Le trésorier donne valablement quittance pour toute somme due par l'association. Il rend compte de sa gestion devant l'Assemblée Générale et doit être à même de présenter des comptes détaillés de l'association à toute réquisition du bureau, du président ou du conseil d'administration.
 
 ### Le Trésorier adjoint
 
