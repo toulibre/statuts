@@ -91,9 +91,9 @@ Ne peuvent être votés que les points inscrits à l'ordre du jour.
 
 Les décisions de l’Assemblée sont prises à la majorité des membres présents ou représentés. Les personnes morales disposent d’une voix chacune. Le scrutin secret est de droit si un membre le demande.
 
-Un membre ne peut porter qu’une seule procuration.
+Un membre absent peut se faire représenter par un membre actif. Pour se faire, il doit faire parvenir au bureau une procuration 24h avant le début de l'Assemblée Générale.
 
-Un membre absent peut se faire représenter par un membre actif.
+Un membre ne peut porter qu’une seule procuration.
 
 En cas de partage des suffrages, la voix du président est prépondérante.
 
@@ -111,7 +111,7 @@ Les délibérations sont prises à la majorité des deux tiers des membres prés
 
 L'association est administrée par un Conseil d'Administration composé de 3 membres au moins et de 12 membres au plus élus par l'assemblée générale parmi les membres actifs.
 
-Les membres du conseil sont élus pour un an.
+Les membres du Conseil d'Administration sont élus pour un an.
 
 Les membres sont rééligibles.
 
@@ -119,9 +119,13 @@ En cas de vacance de poste, le Conseil d’Administration pourvoit provisoiremen
 
 Le Conseil d'Administration se réunit au moins une fois tous les six mois, sur convocation du président ou à la demande du quart de ses membres. Les convocations sont envoyées par courier électronique au moins 7 jours avant la date fixée.
 
+Un membre absent du Conseil d'Administration peut se faire représenter par un autre member du Conseil d'Administration. Pour se faire, il doit faire parvenir au bureau une procuration 24h avant le début du Conseil d'Administration.
+
+Un membre du Conseil d'Administration ne peut porter qu’une seule procuration.
+
 Les décisions sont prises à la majorité des voix, en cas de partage, la voix du président est prépondérante.
 
-Tout membre du conseil qui n'aura pas assisté à trois réunions consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
+Tout membre du Conseil d'Administration qui n'aura pas assisté à trois réunions consécutives pourrait être considéré comme démissionnaire sur vote du Conseil d'Administration à partir de la troisième réunion en son absence.
 
 ## Article 14 : Le bureau
 
