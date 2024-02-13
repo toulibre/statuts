@@ -52,7 +52,6 @@ Sont **membres d'honneur** les personnes morales ou physiques désignées sur pr
 
 Sont **membres actifs** les personnes morales ou physiques qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l'Assemblée Générale.
 
-
 ## Article 8 : Admission et adhésion
 
 Pour faire partie de l'association, il faut adhérer aux présents statuts et s'acquitter de la cotisation annuelle.
@@ -186,9 +185,11 @@ Toutes les fonctions, y compris celles des membres du Conseil d'Administration e
 Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs et administratrices sur présentation d'un justificatif. Le rapport financier présenté à l'Assemblée Générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
 
 ## Article 17 : Dissolution
+
 En cas de dissolution prononcée par l'Assemblée Générale Extraordinaire, convoquée selon les modalités prévues à l'article 12, un ou plusieurs liquidateurs sont nommés par celle-ci et l'actif, s'il y a lieu, est dévolu à une association ayant des buts similaires, conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
 
 ## Article 18 : Règlement intérieur
+
 Un règlement intérieur peut être établi par le Conseil d'Administration qui le fait alors approuver par l'Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'organisation et à la répartition des tâches dans l'association. 
 
 
