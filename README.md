@@ -2,7 +2,7 @@
 
 ## Article 1 : Constitution et dénomination
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **Toulibre**.
+Il est fondé entre les adhérent·es aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **Toulibre**.
 
 ## Article 2 : Buts
 
@@ -95,9 +95,9 @@ Un membre ne peut porter qu'une seule procuration.
 
 Un membre absent peut se faire représenter par un membre actif.
 
-En cas de partage des suffrages, la voix du président est prépondérante.
+En cas de partage des suffrages, la voix du ou de la président·e est prépondérante.
 
-Il est tenu un procès verbal des séances. Les procès verbaux sont signés par le président et le secrétaire de séance. Ils sont établis sans blancs ni ratures sur des feuilles numérotées et conservées au siège de l'association.
+Il est tenu un procès verbal des séances. Les procès verbaux sont signés par le ou la président·e et le ou la secrétaire de séance. Ils sont établis sans blancs ni ratures sur des feuilles numérotées et conservées au siège de l'association.
 
 Il est procédé, après épuisement de l'ordre du jour au renouvellement des membres du Conseil d'Administration.
 
@@ -126,13 +126,13 @@ Tout membre du Conseil qui n'aura pas assisté à trois réunions consécutives 
 ## Article 14 : Le Bureau
 
 Le Conseil d'Administration élit parmi ses membres, un Bureau composé au moins de :
-- un président
-- un trésorier
-- un vice-président "Capitole du Libre"
+- un·e président·e
+- un·e trésorier·e
+- un·e vice-président·e "Capitole du Libre"
 
 Sur proposition du Bureau antérieur, il pourra également être composé de :
-- un secrétaire général
-- un trésorier adjoint
+- un·e secrétaire général·e
+- un·e trésorier·e adjoint·e
 
 Les fonctions ne sont pas cumulables.
 
@@ -142,39 +142,39 @@ Le Bureau assure notamment l'exécution des décisions prises en Assemblée Gén
 
 Il autorise toutes acquisitions, aliénations ou locations immobilières ainsi que les contrats de toute sorte à intervenir entre l'association et des personnes physiques ou des personnes morales, de droit public ou de droit privé.
 
-Les décisions du Bureau sont prises à la majorité simple. En cas de partage des voix, celle du président est prépondérante.
+Les décisions du Bureau sont prises à la majorité simple. En cas de partage des voix, celle du ou de la président·e est prépondérante.
 
 ## Article 15 : Fonctions des membres du Bureau
 
-### Le Président
+### Le ou la Président·e
 
-Il convoque le Conseil d'Administration et préside l'Assemblée Générale.
+Il ou elle convoque le Conseil d'Administration et préside l'Assemblée Générale.
 
-Il représente l'association dans tous les actes de la vie civile.
+Il ou elle représente l'association dans tous les actes de la vie civile.
 
-Il a notamment qualité pour représenter l'association en justice comme défenseur au nom de l'association et comme demandeur avec autorisation du Conseil d'Administration statuant à la majorité relative.
+Il ou elle a notamment qualité pour représenter l'association en justice comme défenseur au nom de l'association et comme demandeur avec autorisation du Conseil d'Administration statuant à la majorité relative.
 
-Il peut former, dans les mêmes conditions, tous appels et pourvois.
+Il ou elle peut former, dans les mêmes conditions, tous appels et pourvois.
 
-### Le Trésorier
+### Le ou la Trésorier·e
 
-Le trésorier est dépositaire des fonds de l'association, il ne peut en disposer que sur mandat du Bureau.
+Le ou la trésorier·e est dépositaire des fonds de l'association, il ou elle ne peut en disposer que sur mandat du Bureau.
 
-Le trésorier donne valablement quittance pour toute somme due par l'association. Il rend compte de sa gestion devant l'Assemblée Générale et doit être à même de présenter des comptes détaillés de l'association à toute réquisition du Bureau, du président ou du Conseil d'Administration.
+Le ou la trésorier·e donne valablement quittance pour toute somme due par l'association. Il out elle rend compte de sa gestion devant l'Assemblée Générale et doit être à même de présenter des comptes détaillés de l'association à toute réquisition du Bureau, du ou de la président·e ou du Conseil d'Administration.
 
-### Le Trésorier adjoint
+### Le ou la Trésorier·e adjoint·e
 
-Il est investi de la même mission que le trésorier.
+Il ou elle est investie de la même mission que le ou la trésorier·e.
 
-### Le vice-président "Capitole du Libre"
+### Le ou la vice-président·e "Capitole du Libre"
 
-Le vice-président Capitole du Libre est en charge de l'organisation et du bon déroulement de l'organisation du "Capitole du Libre". 
+Le ou vice-président·e Capitole du Libre est en charge de l'organisation et du bon déroulement de l'organisation du "Capitole du Libre". 
 
 Il rend compte de la tenue de l'événement devant l'Assemblée Générale.
 
-### Le Secrétaire
+### Le ou la Secrétaire
 
-Le secrétaire est chargé de la correspondance et des convocations. Il rédige les procès verbaux des réunions des assemblées générales et du Conseil d'Administration.
+Le ou la secrétaire est chargée de la correspondance et des convocations. Il ou elle rédige les procès verbaux des réunions des assemblées générales et du Conseil d'Administration.
 
 En cas d'absence de Secrétaire au Bureau, ces tâches peuvent être assurées par n'importe quel membre du Bureau.
 
@@ -183,7 +183,7 @@ En cas d'absence de Secrétaire au Bureau, ces tâches peuvent être assurées p
 
 Toutes les fonctions, y compris celles des membres du Conseil d'Administration et du Bureau, sont bénévoles.
 
-Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs sur présentation d'un justificatif. Le rapport financier présenté à l'Assemblée Générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
+Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs et administratrices sur présentation d'un justificatif. Le rapport financier présenté à l'Assemblée Générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
 
 ## Article 17 : Dissolution
 En cas de dissolution prononcée par l'Assemblée Générale Extraordinaire, convoquée selon les modalités prévues à l'article 12, un ou plusieurs liquidateurs sont nommés par celle-ci et l'actif, s'il y a lieu, est dévolu à une association ayant des buts similaires, conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
