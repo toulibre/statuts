@@ -44,7 +44,7 @@ L'association se compose de :
 - Membres actifs
 - Membres d'honneur
 
-Les **membres du Bureau** tiennent la direction générale de l'association.
+Les **membres du Bureau** tiennent la direction générale de l'association. Leur rôle est défini dans l'article 14 du présent document.
 
 Le rôle des **membres du Conseil d'Administration** est défini dans l'article 13 du présent document.
 
@@ -110,7 +110,7 @@ Les délibérations sont prises à la majorité des deux tiers des membres prés
 
 L'association est administrée par un Conseil d'Administration composé de 3 membres au moins et de 12 membres au plus élus par l'assemblée générale parmi les membres actifs.
 
-Les membres du Conseil sont élus pour un an.
+Les membres du Conseil d'Administration sont élus pour un an.
 
 Les membres sont rééligibles.
 
@@ -135,7 +135,7 @@ Sur proposition du Bureau antérieur, il pourra également être composé de :
 
 Les fonctions ne sont pas cumulables.
 
-Les membres du Bureau sont élus pour un mandat d'un an renouvelable sans limitation. En cas de vacance prolongée d'un de ses membres, le Bureau pourvoit provisoirement à son remplacement. Le remplacement définitif est effectué par la plus proche réunion du Conseil d'Administration.
+Les membres du Bureau sont élus pour un mandat d'un an renouvelable sans limitation. En cas de vacance prolongée d'un de ses membres, le Conseil d'Administration prononce son remplacement en réunion.
 
 Le Bureau assure notamment l'exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées générales.
 
@@ -167,7 +167,7 @@ Il ou elle est investie de la même mission que le ou la trésorier·e.
 
 ### Le ou la vice-président·e "Capitole du Libre"
 
-Le ou vice-président·e Capitole du Libre est en charge de l'organisation et du bon déroulement de l'organisation du "Capitole du Libre". 
+Le ou vice-président·e Capitole du Libre est en charge de l'organisation et du bon déroulement du "Capitole du Libre".
 
 Il rend compte de la tenue de l'événement devant l'Assemblée Générale.
 
