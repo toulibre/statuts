@@ -77,9 +77,9 @@ La qualité de membre se perd par :
 
 L’Assemblée Générale Ordinaire se réunit au moins une fois par année civile et comprend tous les membres actifs à jour de leur cotisation et les membres d'honneur de l'association.
 
-L'ordre du jour est établi par le conseil d'administration.
+L'ordre du jour est établi par le Conseil d'Administration.
 
-Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convocation est envoyée par un membre du bureau et indique l'ordre du jour. Les convocations sont faites par courrier électronique.
+Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués à la demande du Conseil d’Administration, ou de la moitié des membres actifs de l’association. La convocation est envoyée par un membre du bureau et indique l'ordre du jour établi par le Conseil d'Administration. Les convocations sont faites par courrier électronique.
 
 Elle est présidée par le président de l'association assisté des membres du Conseil d'Administration.
 
@@ -117,7 +117,7 @@ Les membres sont rééligibles.
 
 En cas de vacance de poste, le Conseil d’Administration pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif à la prochaine Assemblée Générale. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
 
-Le Conseil d'Administration se réunit au moins une fois tous les six mois, sur convocation du président ou à la demande du quart de ses membres.
+Le Conseil d'Administration se réunit au moins une fois tous les six mois, sur convocation du président ou à la demande du quart de ses membres. Les convocations sont envoyées par courier électronique au moins 7 jours avant la date fixée.
 
 Les décisions sont prises à la majorité des voix, en cas de partage, la voix du président est prépondérante.
 
@@ -144,7 +144,7 @@ Il autorise toutes acquisitions, aliénations ou locations immobilières ainsi q
 
 Les décisions du Bureau sont prises à la majorité simple. En cas de partage des voix, celle du président est prépondérante.
 
-## Article 15 Fonctions des membres du bureau
+## Article 15 : Fonctions des membres du bureau
 
 ### Le Président
 
