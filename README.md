@@ -40,7 +40,7 @@ Les ressources de l'association se composent :
 
 Sont **membres actifs** les personnes morales ou physiques qui sont à jour de leur cotisation annuelle. Ils ont le droit de vote à l'Assemblée Générale.
 
-Sont **membres d'honneur** les personnes morales ou physiques désignées sur proposition du Conseil d'Administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'assemblée générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'assemblée générale mais sans droit de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
+Sont **membres d'honneur** les personnes morales ou physiques désignées sur proposition du Conseil d'Administration pour leur services signalés à l'association et soumis à l'approbation des membres actifs par un vote à l'Assemblée Générale. Ce titre honorifique de membre d'honneur, permet d'assister à l'Assemblée Générale mais sans droit de vote. Les membres d'honneur sont exempts du paiement de la cotisation annuelle.
 
 ## Article 8 : Admission et adhésion
 
@@ -49,7 +49,7 @@ Le Conseil d'Administration pourra refuser des adhésions dans le cas où il est
 
 ## Article 9 : Cotisations
 
-Le montant de la cotisation est fixé chaque année par l'assemblée générale.
+Le montant de la cotisation est fixé chaque année par l'Assemblée Générale.
 
 Les membres actifs versent annuellement cette cotisation.
 
@@ -60,7 +60,7 @@ Les membres d'honneur sont dispensés de cotisation.
 La qualité de membre se perd par :
 - La démission,
 - Le décès,
-- La radiation prononcée par le Conseil d'Administration pour infraction aux présents statuts, pour non-respect du règlement intérieur ou pour motif grave portant préjudice moral ou matériel à l'association. L'intéressé ayant été préalablement appelé à fournir ses explications. Un recours non suspensif devant l'assemblée générale peut être demandé.
+- La radiation prononcée par le Conseil d'Administration pour infraction aux présents statuts, pour non-respect du règlement intérieur ou pour motif grave portant préjudice moral ou matériel à l'association. L'intéressé ayant été préalablement appelé à fournir ses explications. Un recours non suspensif devant l'Assemblée Générale peut être demandé.
 
 ## Article 11 : Assemblée Générale Ordinaire
 
@@ -133,7 +133,7 @@ Les fonctions ne sont pas cumulables.
 
 Les membres du Bureau sont élus pour un mandat d'un an renouvelable sans limitation. En cas de vacance prolongée d'un de ses membres, le Conseil d'Adiministration peut pourvoir provisoirement à son remplacement. Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait normalement expirer le mandat des membres remplacés.
 
-Le Bureau assure notamment l'exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées générales.
+Le Bureau assure notamment l'exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées Générales.
 
 Il autorise toutes acquisitions, aliénations ou locations immobilières ainsi que les contrats de toute sorte à intervenir entre l'association et des personnes physiques ou des personnes morales, de droit public ou de droit privé.
 
@@ -169,7 +169,7 @@ Elle ou il rend compte de la tenue de l'événement devant l'Assemblée Généra
 
 ### La ou le Secrétaire
 
-La ou le secrétaire est chargé de la correspondance et des convocations. Elle ou il rédige les procès verbaux des réunions des assemblées générales et du Conseil d'Administration.
+La ou le secrétaire est chargé de la correspondance et des convocations. Elle ou il rédige les procès verbaux des réunions des Assemblées Générales et du Conseil d'Administration.
 
 En cas d'absence de Secrétaire au Bureau, ces tâches peuvent être assurées par n'importe quel membre du Bureau.
 
@@ -190,7 +190,7 @@ Un règlement intérieur peut être établi par le Conseil d'Administration qui 
 
 
 
-Les présents statuts ont été approuvés par l'assemblée constitutive du 28 Février 2024.
+Les présents statuts ont été approuvés par l'Assemblée Constitutive du 28 Février 2024.
 
 
 La ou le Président :
