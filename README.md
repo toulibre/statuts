@@ -133,7 +133,7 @@ Les fonctions ne sont pas cumulables.
 
 Les membres du Bureau sont élus pour un mandat d'un an renouvelable sans limitation. En cas de vacance prolongée d'un de ses membres, le Conseil d'Adiministration peut pourvoir provisoirement à son remplacement. Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait normalement expirer le mandat des membres remplacés.
 
-Le Bureau assure notamment l'exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport financier et le rapport moral présenté en Assemblée Générale, fait procéder aux convocations des Assemblées Générales.
+Le Bureau assure notamment l'exécution des décisions prises en Assemblée Générale. Il prépare le budget, rédige le rapport financier et le rapport moral présentés en Assemblée Générale, fait procéder aux convocations des Assemblées Générales.
 
 Il autorise toutes acquisitions, aliénations ou locations immobilières ainsi que les contrats de toute sorte à intervenir entre l'association et des personnes physiques ou des personnes morales, de droit public ou de droit privé.
 
@@ -190,7 +190,7 @@ Un règlement intérieur peut être établi par le Conseil d'Administration qui 
 
 
 
-Les présents statuts ont été approuvés par l'Assemblée Constitutive du 28 Février 2024.
+Les présents statuts ont été approuvés par l'Assemblée Générale Extraordinaire du 28 Février 2024.
 
 
 La ou le Président :
