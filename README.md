@@ -70,7 +70,7 @@ L'ordre du jour est établi par le Conseil d'Administration.
 
 Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués à la demande du Conseil d'Administration, ou de la moitié des membres actifs de l'association. La convocation est envoyée par un membre du Bureau et indique l'ordre du jour établi par le Conseil d'Administration. Les convocations sont faites par courrier électronique.
 
-Elle est présidée par le président de l'association assisté des membres du Conseil d'Administration.
+Elle est présidée par la ou le président de l'association assisté des membres du Conseil d'Administration.
 
 L'Assemblée Générale, après avoir délibéré, se prononce sur le rapport moral ou d'activité et sur les comptes de l'exercice financier.
 
